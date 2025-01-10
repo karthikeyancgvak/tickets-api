@@ -1,0 +1,28 @@
+{
+  "tickets": [
+    {
+      "id": "1",
+      "customerName": "John Doe",
+      "issueType": "Internet not working",
+      "date": "2025-01-05",
+      "location": {
+        "lat": 40.7128,
+        "lng": -74.006
+      },
+      "issueDescription": "The internet connection is down in my area.",
+      "status": "In Progress"
+    },
+    {
+      "id": "2",
+      "customerName": "Jane Smith",
+      "issueType": "Cable issues",
+      "date": "2025-01-06",
+      "location": {
+        "lat": 34.0522,
+        "lng": -118.2437
+      },
+      "issueDescription": "Cable TV has been showing no signal.",
+      "status": "Closed"
+    }
+  ]
+}
