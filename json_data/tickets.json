@@ -23,6 +23,78 @@
       },
       "issueDescription": "Cable TV has been showing no signal.",
       "status": "Closed"
+    },
+    {
+      "id": "3",
+      "customerName": "Michael Brown",
+      "issueType": "Slow internet speed",
+      "date": "2025-01-07",
+      "location": {
+        "lat": 51.5074,
+        "lng": -0.1278
+      },
+      "issueDescription": "Internet speed is slower than the promised package.",
+      "status": "Open"
+    },
+    {
+      "id": "4",
+      "customerName": "Emily Davis",
+      "issueType": "Billing error",
+      "date": "2025-01-08",
+      "location": {
+        "lat": 48.8566,
+        "lng": 2.3522
+      },
+      "issueDescription": "Incorrect billing amount for this month.",
+      "status": "Pending"
+    },
+    {
+      "id": "5",
+      "customerName": "Chris Johnson",
+      "issueType": "Service outage",
+      "date": "2025-01-09",
+      "location": {
+        "lat": 37.7749,
+        "lng": -122.4194
+      },
+      "issueDescription": "Complete service outage in the area.",
+      "status": "In Progress"
+    },
+    {
+      "id": "6",
+      "customerName": "Jessica Lee",
+      "issueType": "Router issue",
+      "date": "2025-01-10",
+      "location": {
+        "lat": 35.6895,
+        "lng": 139.6917
+      },
+      "issueDescription": "Router keeps disconnecting intermittently.",
+      "status": "Resolved"
+    },
+    {
+      "id": "7",
+      "customerName": "Daniel Martinez",
+      "issueType": "Installation request",
+      "date": "2025-01-11",
+      "location": {
+        "lat": 55.7558,
+        "lng": 37.6173
+      },
+      "issueDescription": "Request for new service installation.",
+      "status": "Scheduled"
+    },
+    {
+      "id": "8",
+      "customerName": "Sophia Wilson",
+      "issueType": "Frequent disconnections",
+      "date": "2025-01-12",
+      "location": {
+        "lat": -33.8688,
+        "lng": 151.2093
+      },
+      "issueDescription": "Internet disconnects frequently during the day.",
+      "status": "Open"
     }
   ]
 }
